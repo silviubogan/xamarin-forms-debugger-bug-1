@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace XamarinFormsSilverEduMemoryGame
+namespace MyTestApp
 {
     public partial class App : Application
     {

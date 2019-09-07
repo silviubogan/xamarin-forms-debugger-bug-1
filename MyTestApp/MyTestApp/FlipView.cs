@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace XamarinFormsSilverEduMemoryGame
+namespace MyTestApp
 {
     /// <summary>
     /// Mostly copied from https://github.com/UdaraAlwis/XFFlipViewControl

@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace XamarinFormsSilverEduMemoryGame
+namespace MyTestApp
 {
     /// <summary>
     /// Mostly copied from https://forums.xamarin.com/discussion/92662/viewbox-implementation-for-xamarin-forms

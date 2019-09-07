@@ -3,7 +3,7 @@ using System.Timers;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace XamarinFormsSilverEduMemoryGame
+namespace MyTestApp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class GamePage : ContentPage
